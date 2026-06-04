@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[39756,["/Malawian_Fish_Room_Website_2/_next/static/chunks/0hc5rdv45u~1~.js","/Malawian_Fish_Room_Website_2/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
-3:I[37457,["/Malawian_Fish_Room_Website_2/_next/static/chunks/0hc5rdv45u~1~.js","/Malawian_Fish_Room_Website_2/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+2:I[39756,["/MalawianFishRoom/_next/static/chunks/0h_f0~30lqav-.js","/MalawianFishRoom/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+3:I[37457,["/MalawianFishRoom/_next/static/chunks/0h_f0~30lqav-.js","/MalawianFishRoom/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"rGiLG7KNrxArexpuYjTcx"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"nYAv2OtJGakPFLMewK3-Q"}

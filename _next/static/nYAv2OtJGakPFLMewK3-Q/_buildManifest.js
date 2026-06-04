@@ -3,8 +3,8 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/Malawian_Fish_Room_Website_2//_next/:path+",
-        "destination": "/Malawian_Fish_Room_Website_2/_next/:path+"
+        "source": "/MalawianFishRoom//_next/:path+",
+        "destination": "/MalawianFishRoom/_next/:path+"
       }
     ],
     "fallback": []
